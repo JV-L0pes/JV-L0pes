@@ -19,7 +19,7 @@ Desenvolvedor FullStack apaixonado por criar soluções web modernas e escaláve
 ## 💻 Projetos em Destaque
 - [Portfólio Pessoal](https://github.com/JV-L0pes/JV-L0pes.github.io) - Meu portfólio profissional
 - [Burndown Chart](https://github.com/JV-L0pes/burndown-chart) - Dashboard integrado com Trello
-- [ErrorSquad](https://github.com/ErrorSquad-Front) - Projeto da organização ABP da faculdade
+- [ErrorSquad](https://github.com/ErrorSquad-ABP) - Projeto da organização ABP da faculdade
 - [Site ABP](https://github.com/JV-L0pes/site_abp) - Projeto desenvolvido individualmente
 
 ## 📚 Atualmente Aprendendo

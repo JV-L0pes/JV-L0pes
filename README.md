@@ -32,10 +32,6 @@ Desenvolvedor FullStack apaixonado por criar soluções web modernas e escaláve
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JV-L0pes&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JV-L0pes&layout=compact&theme=radical)
 
-## 🌟 Conquistas
-- Pull Shark x2
-- Quickdraw
-- YOLO
 
 ## 📫 Como Me Encontrar
 - GitHub: [@JV-L0pes](https://github.com/JV-L0pes)

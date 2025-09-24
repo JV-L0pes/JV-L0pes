@@ -1,4 +1,4 @@
-# João Victor Lopes Rosa 👋
+# Olá, sou João Victor Lopes Rosa 👋
 
 <div align="center">
 

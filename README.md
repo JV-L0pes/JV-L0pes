@@ -1,64 +1,151 @@
 # João Victor Lopes Rosa 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jv-l0pes)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JV-L0pes)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-222222?style=flat&logo=google-chrome&logoColor=white)](https://jv-l0pes.github.io)
-[![E-mail](https://img.shields.io/badge/E--mail-joaovlr9@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:joaovlr9@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jv-l0pes)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes)
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jv-l0pes-porfolio.onrender.com/)
+[![E-mail](https://img.shields.io/badge/E--mail-joaovlr9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovlr9@gmail.com)
+
+</div>
 
 ---
 
 ## 🎯 Sobre Mim
 
-Desenvolvedor FullStack focado em soluções web modernas e escaláveis. Apaixonado por tecnologia, inovação e aprendizado contínuo, com experiência crescente em **Inteligência Artificial** e **automação com n8n**. Busco sempre unir criatividade e lógica para entregar soluções eficientes, com foco em IA, web e mobile. Valorizo o trabalho em equipe, a comunicação clara e o impacto positivo da tecnologia na sociedade.
+Desenvolvedor FullStack com experiência profissional em desenvolvimento de soluções web modernas e escaláveis. Atualmente trabalhando na **AllTechBR**, onde desenvolvo aplicações com React, Node.js e Python, implementando soluções de **IA generativa** e **automação com n8n**. 
+
+Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atuo como **Scrum Master** em projetos ABP e desenvolvo soluções inovadoras com **Computer Vision** e **Machine Learning**. Apaixonado por tecnologia, inovação e aprendizado contínuo, busco sempre unir criatividade e lógica para entregar soluções eficientes e impactantes.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)]()
-[![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=flat&logo=n8n&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
+<div align="center">
 
-- **Frontend:** React, TypeScript, HTML5, CSS3, JavaScript
-- **Backend:** Python, Node.js
-- **IA & Automação:** Python, n8n, Machine Learning
-- **Banco de Dados:** PostgreSQL, SQL, MongoDB
-- **Ferramentas:** Git, GitHub, VS Code, n8n
-- **Metodologias:** Scrum, Kanban
+### 🛠️ Stack Principal
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+
+</div>
+
+- **Frontend:** React 18, TypeScript, Next.js, Tailwind CSS, Vite
+- **Backend:** Python, Node.js, Fastify, Flask
+- **IA & Automação:** Python, n8n, Machine Learning, Computer Vision, YOLO
+- **Banco de Dados:** PostgreSQL, MySQL, Prisma ORM
+- **Ferramentas:** Git, GitHub, VS Code, Cursor, n8n, Docker
+- **Metodologias:** Scrum (Scrum Master), Kanban, Agile
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 ### 🤖 Projetos de IA e Automação
-- [**EPI-YOLO11**](https://github.com/JV-L0pes/EPI-YOLO11)  
-  _Sistema de detecção de EPIs usando YOLO11 para segurança no trabalho. (Python, Computer Vision)_
-- [**ATENA**](https://github.com/JV-L0pes/ATENA)  
-  _Projeto de análise e processamento de dados com IA. (Python)_
-- [**Shomer**](https://github.com/JV-L0pes/Shomer)  
-  _Sistema de monitoramento e análise com inteligência artificial. (Python)_
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🛡️ **EPI-YOLO11**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/EPI-YOLO11)
+
+**Stack:** Python, YOLO11, OpenCV, Computer Vision  
+**Features:** Detecção automática de EPIs, sistema de segurança no trabalho, análise em tempo real
+
+</td>
+<td width="50%">
+
+#### 🧠 **ATENA**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/ATENA)
+
+**Stack:** Python, Machine Learning, Data Analysis  
+**Features:** Análise e processamento de dados com IA, algoritmos de aprendizado de máquina
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 👁️ **Shomer**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/Shomer)
+
+**Stack:** Python, Computer Vision, Monitoring Systems  
+**Features:** Sistema de monitoramento inteligente, análise automatizada com IA
+
+</td>
+<td width="50%">
+
+#### 📊 **Projetos de Análise**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/Estatistica_Alzheimer)
+
+**Stack:** R, Statistical Analysis, Data Visualization  
+**Features:** Análise estatística avançada, visualização de dados complexos
+
+</td>
+</tr>
+</table>
 
 ### 🌐 Projetos Web e FullStack
-- [**sql-to-diagram**](https://github.com/JV-L0pes/sql-to-diagram)  
-  _Transforma scripts SQL em diagramas ER visuais. (Next.js, TypeScript, Tailwind CSS)_
-- [**AllTech-Site**](https://github.com/JV-L0pes/AllTech-Site)  
-  _Site moderno desenvolvido com tecnologias atuais. (TypeScript)_
-- [**Burndown Chart**](https://github.com/JV-L0pes/burndown-chart)  
-  _Dashboard integrado com Trello para acompanhamento ágil. (JavaScript, DOM, SCRUM)_
-- [**Portfólio Pessoal**](https://github.com/JV-L0pes/JV-L0pes.github.io)  
-  _Site responsivo para apresentação de projetos e habilidades profissionais. (CSS)_
 
-### 📊 Projetos de Análise e Dados
-- [**Estatistica_Alzheimer**](https://github.com/JV-L0pes/Estatistica_Alzheimer)  
-  _Análise estatística de dados relacionados ao Alzheimer. (R)_
-- [**Atividade_Megasena**](https://github.com/JV-L0pes/Atividade-Megasena)  
-  _Análise e visualização de dados da Mega-Sena. (JavaScript)_
+<table>
+<tr>
+<td width="50%">
+
+#### 🎨 **Portfólio Moderno**
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jv-l0pes-porfolio.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/JV-L0pes.github.io)
+
+**Stack:** React 18, TypeScript, Vite, Framer Motion  
+**Features:** Dark theme, internacionalização, animações fluidas, design responsivo
+
+</td>
+<td width="50%">
+
+#### 🔧 **sql-to-diagram**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/sql-to-diagram)
+
+**Stack:** Next.js, TypeScript, Tailwind CSS  
+**Features:** Transformação de SQL em diagramas ER visuais, interface intuitiva
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💰 **AnkaFlow**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/AnkaTechCase)
+
+**Stack:** TypeScript, Fastify, Prisma, MySQL, Docker  
+**Features:** Sistema completo de gestão de investimentos, APIs RESTful
+
+</td>
+<td width="50%">
+
+#### 🏢 **AllTech-Site**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/AllTech-Site)
+
+**Stack:** TypeScript, Next.js, SEO  
+**Features:** Site corporativo moderno, otimização de performance
+
+</td>
+</tr>
+</table>
+
+#### 📊 **Burndown Chart**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/burndown-chart)
+
+**Stack:** JavaScript, Trello API, Chart.js  
+**Features:** Dashboard integrado com Trello para acompanhamento ágil, visualizações em tempo real
+
 
 ---
 
@@ -67,20 +154,34 @@ Desenvolvedor FullStack focado em soluções web modernas e escaláveis. Apaixon
 > 💡 **Desenvolvimento colaborativo** em equipes multidisciplinares durante a graduação, aplicando metodologias ágeis e tecnologias modernas para resolver problemas reais.
 
 ### 🏫 ErrorSquad-ABP
-**Contribuições como Desenvolvedor FullStack e Arquiteto de Soluções**
+**Contribuições como Frontend Lead e Technical Writer**
 
 - [**Gerenciamento_Pedagogico-Front**](https://github.com/ErrorSquad-ABP/Gerenciamento_Pedagogico-Front)  
   _🎨 **Frontend Lead:** Desenvolvimento da interface responsiva e intuitiva do sistema pedagógico, implementando componentes reutilizáveis e otimizando a experiência do usuário. (JavaScript, React)_
-- [**Gerenciamento_Pedagogico-Server**](https://github.com/ErrorSquad-ABP/Gerenciamento_Pedagogico-Server)  
-  _⚙️ **Backend Developer:** Arquitetura e implementação da API RESTful, gerenciamento de dados e integração com banco de dados para suportar as funcionalidades do sistema educacional. (JavaScript, Node.js)_
 - [**Gerenciamento_Pedagogico-Documentacao**](https://github.com/ErrorSquad-ABP/Gerenciamento_Pedagogico-Documentacao)  
   _📚 **Technical Writer:** Criação e manutenção da documentação técnica completa, incluindo guias de instalação, API documentation e manuais de usuário para facilitar a adoção do sistema._
 
 ### 🚀 ExceptionH4ndlers
-**Liderança Técnica e Inovação**
+**Scrum Master, Full Stack Developer e Technical Writer**
 
 - [**ABP_2DSM**](https://github.com/ExceptionH4ndlers/ABP_2DSM)  
-  _🌟 **Tech Lead:** Projeto acadêmico inovador desenvolvido na Fatec Jacareí, demonstrando expertise em arquitetura de software, metodologias ágeis e desenvolvimento de soluções escaláveis para o curso de DSM. (TypeScript, Arquitetura de Software)_
+  _🌟 **Scrum Master:** Facilitação de cerimônias ágeis, remoção de impedimentos e coordenação da equipe de desenvolvimento seguindo metodologias Scrum._
+  _💻 **Full Stack Developer:** Desenvolvimento completo de funcionalidades frontend e backend com TypeScript e tecnologias modernas._
+  _📚 **Technical Writer:** Criação e manutenção da documentação técnica completa para facilitar a adoção do sistema._
+
+---
+
+## 💼 Experiência Profissional
+
+### 🏢 AllTechBR - Desenvolvedor de Software
+**Desenvolvimento de soluções tecnológicas inovadoras**
+
+- **Desenvolvimento Full Stack:** Aplicações web responsivas com React, Node.js e Python
+- **IA Generativa:** Implementação de soluções de Machine Learning para análise de dados
+- **Automação:** Desenvolvimento de workflows inteligentes com n8n para integração de sistemas
+- **Computer Vision:** Implementação de algoritmos de detecção de objetos e análise de imagens
+- **APIs RESTful:** Desenvolvimento com Python (Flask) para processamento de dados
+- **Metodologias Ágeis:** Colaboração em equipes multidisciplinares seguindo práticas ágeis
 
 ---
 
@@ -114,33 +215,63 @@ Desenvolvedor FullStack focado em soluções web modernas e escaláveis. Apaixon
 ---
 
 ## 📚 Atualmente Aprendendo
-- 🤖 **Machine Learning** - Aprofundando conhecimentos em algoritmos e modelos
-- 🧠 **Inteligência Artificial Generativa** - Explorando LLMs e aplicações práticas
-- 🔧 **Automação com n8n** - Desenvolvendo workflows inteligentes
-- 📊 **Computer Vision** - Detecção de objetos e análise de imagens
-- 🔄 **Desenvolvimento de Sistemas Distribuídos** - Arquiteturas escaláveis
+- 🧠 **Inteligência Artificial Generativa** - Aplicando LLMs em projetos reais na AllTechBR
+- 🔧 **Automação Avançada com n8n** - Desenvolvendo workflows complexos para integração de sistemas
+- 📊 **Computer Vision Avançada** - Implementando YOLO11 e algoritmos de detecção em produção
+- 🏗️ **Arquiteturas Escaláveis** - Desenvolvendo sistemas distribuídos com Node.js e Python
+- 🎯 **Scrum Master** - Liderando equipes ágeis em projetos ABP e profissionais
 
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JV-L0pes&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JV-L0pes&layout=compact&theme=radical)
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JV-L0pes&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JV-L0pes&layout=compact&theme=radical&hide_border=true)
+
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=JV-L0pes&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
 ## 📫 Como Me Encontrar
-- GitHub: [@JV-L0pes](https://github.com/JV-L0pes)
-- LinkedIn: [João Victor Lopes](https://www.linkedin.com/in/jv-l0pes/)
-- Localização: São Paulo, Brasil
-- Fuso Horário: UTC -03:00
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@JV--L0pes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Victor_Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jv-l0pes/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jv-l0pes-porfolio.onrender.com/)
+
+📍 **São Paulo, Brasil** | 🕐 **UTC -03:00**
+
+</div>
 
 ---
 
-## 🎯 Objetivos
-- **Contribuir para projetos open source** - Foco em IA e automação
-- **Desenvolver soluções inovadoras** - Combinando IA, Python e n8n
-- **Expandir conhecimentos** - Em Computer Vision e Machine Learning
-- **Criar impacto positivo** - Através de soluções tecnológicas inteligentes
+## 🎯 Objetivos 2025
+
+<div align="center">
+
+| 🎯 **Objetivo** | 📝 **Descrição** |
+|:---:|:---|
+| 🤖 **IA em Produção** | Desenvolvendo soluções inteligentes na AllTechBR |
+| 🏃‍♂️ **Scrum Master** | Liderando equipes ágeis em projetos multidisciplinares |
+| ⚡ **Automação** | Criando workflows inteligentes com n8n |
+| 🌐 **Open Source** | Compartilhando conhecimento em IA e Computer Vision |
+| 💡 **Impacto Positivo** | Soluções tecnológicas que transformam negócios |
+
+</div>
 
 ---
-⭐️ From [JV-L0pes](https://github.com/JV-L0pes)
+
+<div align="center">
+
+### ⭐️ Obrigado pela visita!
+
+**Desenvolvido com ❤️ por [JV-L0pes](https://github.com/JV-L0pes)**
+
+![Profile Views](https://komarev.com/ghpvc/?username=JV-L0pes&color=blueviolet&style=for-the-badge)
+
+</div>

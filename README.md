@@ -62,6 +62,28 @@ Desenvolvedor FullStack focado em soluções web modernas e escaláveis. Apaixon
 
 ---
 
+## 🎓 Projetos ABP (Aprendizagem Baseada em Projetos)
+
+> 💡 **Desenvolvimento colaborativo** em equipes multidisciplinares durante a graduação, aplicando metodologias ágeis e tecnologias modernas para resolver problemas reais.
+
+### 🏫 ErrorSquad-ABP
+**Contribuições como Desenvolvedor FullStack e Arquiteto de Soluções**
+
+- [**Gerenciamento_Pedagogico-Front**](https://github.com/ErrorSquad-ABP/Gerenciamento_Pedagogico-Front)  
+  _🎨 **Frontend Lead:** Desenvolvimento da interface responsiva e intuitiva do sistema pedagógico, implementando componentes reutilizáveis e otimizando a experiência do usuário. (JavaScript, React)_
+- [**Gerenciamento_Pedagogico-Server**](https://github.com/ErrorSquad-ABP/Gerenciamento_Pedagogico-Server)  
+  _⚙️ **Backend Developer:** Arquitetura e implementação da API RESTful, gerenciamento de dados e integração com banco de dados para suportar as funcionalidades do sistema educacional. (JavaScript, Node.js)_
+- [**Gerenciamento_Pedagogico-Documentacao**](https://github.com/ErrorSquad-ABP/Gerenciamento_Pedagogico-Documentacao)  
+  _📚 **Technical Writer:** Criação e manutenção da documentação técnica completa, incluindo guias de instalação, API documentation e manuais de usuário para facilitar a adoção do sistema._
+
+### 🚀 ExceptionH4ndlers
+**Liderança Técnica e Inovação**
+
+- [**ABP_2DSM**](https://github.com/ExceptionH4ndlers/ABP_2DSM)  
+  _🌟 **Tech Lead:** Projeto acadêmico inovador desenvolvido na Fatec Jacareí, demonstrando expertise em arquitetura de software, metodologias ágeis e desenvolvimento de soluções escaláveis para o curso de DSM. (TypeScript, Arquitetura de Software)_
+
+---
+
 ## 📜 Certificações
 
 [![Udemy](https://img.shields.io/badge/Udemy-Git%20e%20GitHub-A435F0?style=flat&logo=udemy&logoColor=white)](https://github.com/JV-L0pes/Certificados)

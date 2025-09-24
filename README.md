@@ -1,6 +1,6 @@
-# João Victor Lopes Rosa
+# João Victor Lopes Rosa 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-victor-lopes-rosa-a7a558363)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jv-l0pes)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JV-L0pes)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-222222?style=flat&logo=google-chrome&logoColor=white)](https://jv-l0pes.github.io)
 [![E-mail](https://img.shields.io/badge/E--mail-joaovlr9@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:joaovlr9@gmail.com)
@@ -9,40 +9,56 @@
 
 ## 🎯 Sobre Mim
 
-Sou apaixonado por tecnologia, inovação e aprendizado contínuo. Busco sempre unir criatividade e lógica para entregar soluções eficientes, com foco em IA, web e mobile. Valorizo o trabalho em equipe, a comunicação clara e o impacto positivo da tecnologia na sociedade.
+Desenvolvedor FullStack focado em soluções web modernas e escaláveis. Apaixonado por tecnologia, inovação e aprendizado contínuo, com experiência crescente em **Inteligência Artificial** e **automação com n8n**. Busco sempre unir criatividade e lógica para entregar soluções eficientes, com foco em IA, web e mobile. Valorizo o trabalho em equipe, a comunicação clara e o impacto positivo da tecnologia na sociedade.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)]()
+[![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=flat&logo=n8n&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)]()
-[![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=flat&logo=trello&logoColor=white)]()
 
 - **Frontend:** React, TypeScript, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Python
-- **Banco de Dados:** SQL, MongoDB
-- **Ferramentas:** Git, GitHub, VS Code
+- **Backend:** Python, Node.js
+- **IA & Automação:** Python, n8n, Machine Learning
+- **Banco de Dados:** PostgreSQL, SQL, MongoDB
+- **Ferramentas:** Git, GitHub, VS Code, n8n
 - **Metodologias:** Scrum, Kanban
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- [Portfólio Pessoal](https://github.com/JV-L0pes/JV-L0pes.github.io)  
-  _Site responsivo para apresentação de projetos e habilidades profissionais. (HTML5, CSS3, JS)_
-- [Burndown Chart](https://github.com/JV-L0pes/burndown-chart)  
+### 🤖 Projetos de IA e Automação
+- [**EPI-YOLO11**](https://github.com/JV-L0pes/EPI-YOLO11)  
+  _Sistema de detecção de EPIs usando YOLO11 para segurança no trabalho. (Python, Computer Vision)_
+- [**ATENA**](https://github.com/JV-L0pes/ATENA)  
+  _Projeto de análise e processamento de dados com IA. (Python)_
+- [**Shomer**](https://github.com/JV-L0pes/Shomer)  
+  _Sistema de monitoramento e análise com inteligência artificial. (Python)_
+
+### 🌐 Projetos Web e FullStack
+- [**sql-to-diagram**](https://github.com/JV-L0pes/sql-to-diagram)  
+  _Transforma scripts SQL em diagramas ER visuais. (Next.js, TypeScript, Tailwind CSS)_
+- [**AllTech-Site**](https://github.com/JV-L0pes/AllTech-Site)  
+  _Site moderno desenvolvido com tecnologias atuais. (TypeScript)_
+- [**Burndown Chart**](https://github.com/JV-L0pes/burndown-chart)  
   _Dashboard integrado com Trello para acompanhamento ágil. (JavaScript, DOM, SCRUM)_
-- [ErrorSquad](https://github.com/ErrorSquad-ABP)  
-  _Projeto colaborativo acadêmico focado em metodologias ágeis. (HTML, CSS, JS, GitHub)_
-- [Site ABP](https://github.com/JV-L0pes/site_abp)  
-  _Modelo de site acadêmico para projetos em equipe. (HTML, CSS, JS)_
+- [**Portfólio Pessoal**](https://github.com/JV-L0pes/JV-L0pes.github.io)  
+  _Site responsivo para apresentação de projetos e habilidades profissionais. (CSS)_
+
+### 📊 Projetos de Análise e Dados
+- [**Estatistica_Alzheimer**](https://github.com/JV-L0pes/Estatistica_Alzheimer)  
+  _Análise estatística de dados relacionados ao Alzheimer. (R)_
+- [**Atividade_Megasena**](https://github.com/JV-L0pes/Atividade-Megasena)  
+  _Análise e visualização de dados da Mega-Sena. (JavaScript)_
 
 ---
 
@@ -56,7 +72,6 @@ Sou apaixonado por tecnologia, inovação e aprendizado contínuo. Busco sempre 
 
 ## 🎓 Formação Acadêmica
 - **Fatec Jacareí** — Desenvolvimento de Software Multiplataforma (2025-2027, em andamento)
-- **Anglo Jacareí** — Ensino Médio e Pré-Vestibular (2020-2022)
 
 ---
 
@@ -77,17 +92,11 @@ Sou apaixonado por tecnologia, inovação e aprendizado contínuo. Busco sempre 
 ---
 
 ## 📚 Atualmente Aprendendo
-- 🤖 Machine Learning
-- 🧠 Inteligência Artificial Generativa
-- 📝 Large Language Models (LLMs)
-- 🔄 Desenvolvimento de Sistemas Distribuídos
-
----
-
-## 🤝 Como posso ajudar?
-- Contribuição em projetos open source
-- Parcerias para desenvolvimento de soluções em IA
-- Compartilhamento de conhecimento sobre web, mobile e IA
+- 🤖 **Machine Learning** - Aprofundando conhecimentos em algoritmos e modelos
+- 🧠 **Inteligência Artificial Generativa** - Explorando LLMs e aplicações práticas
+- 🔧 **Automação com n8n** - Desenvolvendo workflows inteligentes
+- 📊 **Computer Vision** - Detecção de objetos e análise de imagens
+- 🔄 **Desenvolvimento de Sistemas Distribuídos** - Arquiteturas escaláveis
 
 ---
 
@@ -106,15 +115,10 @@ Sou apaixonado por tecnologia, inovação e aprendizado contínuo. Busco sempre 
 ---
 
 ## 🎯 Objetivos
-- Contribuir para projetos open source
-- Desenvolver soluções inovadoras com IA
-- Expandir conhecimentos em arquitetura de software
-- Criar impacto positivo através da tecnologia
-
----
-
-## 📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+- **Contribuir para projetos open source** - Foco em IA e automação
+- **Desenvolver soluções inovadoras** - Combinando IA, Python e n8n
+- **Expandir conhecimentos** - Em Computer Vision e Machine Learning
+- **Criar impacto positivo** - Através de soluções tecnológicas inteligentes
 
 ---
 ⭐️ From [JV-L0pes](https://github.com/JV-L0pes)

@@ -13,7 +13,7 @@
 
 ## 🎯 Sobre Mim
 
-Desenvolvedor FullStack com experiência profissional em desenvolvimento de soluções web modernas e escaláveis. Atualmente trabalhando na **AllTechBR**, onde desenvolvo aplicações com React, Node.js e Python, implementando soluções de **IA generativa** e **automação com n8n**. 
+Desenvolvedor FullStack com experiência profissional em desenvolvimento de soluções web modernas e escaláveis. Atualmente trabalho desenvolvendo aplicações com React, Node.js e Python, implementando soluções de **IA generativa** e **automação com n8n**. 
 
 Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atuo como **Scrum Master** em projetos ABP e desenvolvo soluções inovadoras com **Computer Vision** e **Machine Learning**. Apaixonado por tecnologia, inovação e aprendizado contínuo, busco sempre unir criatividade e lógica para entregar soluções eficientes e impactantes.
 

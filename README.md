@@ -34,15 +34,14 @@ Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atuo
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
 </div>
 
-- **Frontend:** React 18, TypeScript, Next.js, Tailwind CSS, Vite
+- **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Vite
 - **Backend:** Python, Node.js, Fastify, Flask
 - **IA & Automação:** Python, n8n, Machine Learning, Computer Vision, YOLO
 - **Banco de Dados:** PostgreSQL, MySQL, Prisma ORM
-- **Ferramentas:** Git, GitHub, VS Code, Cursor, n8n, Docker
+- **Ferramentas:** Git, GitHub, n8n, Docker
 - **Metodologias:** Scrum (Scrum Master), Kanban, Agile
 
 ---

@@ -82,7 +82,7 @@ Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atuo
 </td>
 <td width="50%">
 
-#### 📊 **Projetos de Análise**
+#### 📊 **Estatistica_Alzheimer**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/Estatistica_Alzheimer)
 
 **Stack:** R, Statistical Analysis, Data Visualization  

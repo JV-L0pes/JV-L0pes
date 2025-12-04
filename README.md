@@ -119,8 +119,10 @@ Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atuo
 <tr>
 <td width="50%">
 
-#### 💰 **AnkaFlow**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/AnkaTechCase)
+#### 💰 **Investment-Management-Platform
+**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/Investment-Management-Platform
+)
 
 **Stack:** TypeScript, Fastify, Prisma, MySQL, Docker  
 **Features:** Sistema completo de gestão de investimentos, APIs RESTful

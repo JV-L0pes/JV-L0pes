@@ -3,7 +3,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jv-l0pes)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes)
 [![Portfólio](https://img.shields.io/badge/Portfólio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jv-l0pes-porfolio.onrender.com/)
 [![E-mail](https://img.shields.io/badge/E--mail-joaovlr9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovlr9@gmail.com)
 

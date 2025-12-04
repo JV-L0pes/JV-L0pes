@@ -225,9 +225,6 @@ Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atuo
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JV-L0pes&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JV-L0pes&layout=compact&theme=radical&hide_border=true)
-
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=JV-L0pes&theme=radical&hide_border=true)
 
 </div>
@@ -237,28 +234,11 @@ Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atuo
 ## 📫 Como Me Encontrar
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@JV--L0pes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes)
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Victor_Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jv-l0pes/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jv-l0pes-porfolio.onrender.com/)
 
 📍 **São Paulo, Brasil** | 🕐 **UTC -03:00**
-
-</div>
-
----
-
-## 🎯 Objetivos 2025
-
-<div align="center">
-
-| 🎯 **Objetivo** | 📝 **Descrição** |
-|:---:|:---|
-| 🤖 **IA em Produção** | Desenvolvendo soluções inteligentes na AllTechBR |
-| 🏃‍♂️ **Scrum Master** | Liderando equipes ágeis em projetos multidisciplinares |
-| ⚡ **Automação** | Criando workflows inteligentes com n8n |
-| 🌐 **Open Source** | Compartilhando conhecimento em IA e Computer Vision |
-| 💡 **Impacto Positivo** | Soluções tecnológicas que transformam negócios |
 
 </div>
 

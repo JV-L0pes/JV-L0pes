@@ -18,22 +18,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JV-L0pes?tab=followers">
-    <img src="https://img.shields.io/github/followers/JV-L0pes?style=for-the-badge&label=Followers&labelColor=0f172a&color=22c55e" alt="GitHub followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/jv-l0pes/">
-    <img src="https://img.shields.io/badge/LinkedIn-jv--l0pes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://jv-l0pes.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-live-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:joaovlr9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-joaovlr9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="mailto:joaovlr9@gmail.com">📧 Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/jv-l0pes/">💼 LinkedIn</a>
+  ·
+  <a href="https://jv-l0pes.github.io/">🌐 Portfolio</a>
+  ·
+  <a href="https://github.com/JV-L0pes?tab=followers">👥 Followers</a>
 </p>
 
 <p align="center">
-  <a href="#pt-br">PT-BR</a> · <a href="#en">EN</a>
+  <a href="#pt-br">🇧🇷 PT-BR</a> · <a href="#en">🇺🇸 EN</a>
 </p>
 
 <h2 id="pt-br">PT-BR</h2>
@@ -215,14 +210,12 @@ const joao = {
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=JV-L0pes&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=22c55e&text_color=cbd5e1&icon_color=f59e0b&include_all_commits=true"
-    alt="GitHub stats"
+    src="https://raw.githubusercontent.com/JV-L0pes/JV-L0pes/main/profile-summary-card-output/transparent/3-stats.svg"
+    alt="GitHub stats summary card"
   />
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JV-L0pes&layout=compact&hide_border=true&bg_color=00000000&title_color=22c55e&text_color=cbd5e1&langs_count=8"
-    alt="Top languages"
+    src="https://raw.githubusercontent.com/JV-L0pes/JV-L0pes/main/profile-summary-card-output/transparent/1-repos-per-language.svg"
+    alt="Top languages summary card"
   />
 </p>
 
@@ -243,9 +236,9 @@ const joao = {
 </p>
 
 <p align="center">
-  <a href="mailto:joaovlr9@gmail.com">Email</a>
+  <a href="mailto:joaovlr9@gmail.com">📧 Email</a>
   ·
-  <a href="https://www.linkedin.com/in/jv-l0pes/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jv-l0pes/">💼 LinkedIn</a>
   ·
-  <a href="https://jv-l0pes.github.io/">Portfolio</a>
+  <a href="https://jv-l0pes.github.io/">🌐 Portfolio</a>
 </p>

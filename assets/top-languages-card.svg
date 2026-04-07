@@ -1,6 +1,6 @@
 <svg width="360" height="200" viewBox="0 0 360 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Top languages card</title>
-  <desc id="desc">A custom top languages card highlighting TypeScript, JavaScript, Python, HTML and R with distinct colors.</desc>
+  <desc id="desc">A clean top languages card highlighting TypeScript, JavaScript, Python, HTML and R with distinct colors and readable bars.</desc>
   <defs>
     <linearGradient id="bg" x1="18" y1="14" x2="332" y2="188" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0F172A" />
@@ -12,11 +12,11 @@
         fill: #F8FAFC;
       }
       .label {
-        font: 600 14px 'Segoe UI', Arial, sans-serif;
+        font: 600 13px 'Segoe UI', Arial, sans-serif;
         fill: #CBD5E1;
       }
       .value {
-        font: 700 14px 'Segoe UI', Arial, sans-serif;
+        font: 700 13px 'Segoe UI', Arial, sans-serif;
         fill: #F8FAFC;
       }
     </style>
@@ -24,35 +24,37 @@
 
   <rect x="1" y="1" width="358" height="198" rx="18" fill="url(#bg)" stroke="#334155" />
 
-  <text class="title" x="26" y="38">Top Languages</text>
+  <text class="title" x="24" y="34">Top Languages</text>
 
-  <g transform="translate(26 58)">
-    <rect x="0" y="0" width="12" height="12" rx="3" fill="#3178C6" />
-    <text class="label" x="22" y="11">TypeScript</text>
-    <text class="value" x="258" y="11">37%</text>
+  <g transform="translate(24 52)">
+    <rect x="0" y="0" width="8" height="8" rx="2" fill="#3178C6" />
+    <text class="label" x="18" y="8">TypeScript</text>
+    <text class="value" x="286" y="8">37%</text>
+    <rect x="0" y="16" width="288" height="8" rx="4" fill="#233047" />
+    <rect x="0" y="16" width="107" height="8" rx="4" fill="#3178C6" />
 
-    <rect x="0" y="28" width="12" height="12" rx="3" fill="#F7DF1E" />
-    <text class="label" x="22" y="39">JavaScript</text>
-    <text class="value" x="258" y="39">29%</text>
+    <rect x="0" y="38" width="8" height="8" rx="2" fill="#F7DF1E" />
+    <text class="label" x="18" y="46">JavaScript</text>
+    <text class="value" x="286" y="46">29%</text>
+    <rect x="0" y="54" width="288" height="8" rx="4" fill="#233047" />
+    <rect x="0" y="54" width="84" height="8" rx="4" fill="#F7DF1E" />
 
-    <rect x="0" y="56" width="12" height="12" rx="3" fill="#2AA198" />
-    <text class="label" x="22" y="67">Python</text>
-    <text class="value" x="258" y="67">21%</text>
+    <rect x="0" y="76" width="8" height="8" rx="2" fill="#2AA198" />
+    <text class="label" x="18" y="84">Python</text>
+    <text class="value" x="286" y="84">21%</text>
+    <rect x="0" y="92" width="288" height="8" rx="4" fill="#233047" />
+    <rect x="0" y="92" width="61" height="8" rx="4" fill="#2AA198" />
 
-    <rect x="0" y="84" width="12" height="12" rx="3" fill="#E34F26" />
-    <text class="label" x="22" y="95">HTML</text>
-    <text class="value" x="258" y="95">8%</text>
+    <rect x="0" y="114" width="8" height="8" rx="2" fill="#E34F26" />
+    <text class="label" x="18" y="122">HTML</text>
+    <text class="value" x="294" y="122">8%</text>
+    <rect x="0" y="130" width="288" height="8" rx="4" fill="#233047" />
+    <rect x="0" y="130" width="23" height="8" rx="4" fill="#E34F26" />
 
-    <rect x="0" y="112" width="12" height="12" rx="3" fill="#7B61FF" />
-    <text class="label" x="22" y="123">R</text>
-    <text class="value" x="258" y="123">5%</text>
-  </g>
-
-  <g transform="translate(26 162)">
-    <rect x="0" y="0" width="112" height="10" rx="5" fill="#3178C6" />
-    <rect x="112" y="0" width="88" height="10" rx="0" fill="#F7DF1E" />
-    <rect x="200" y="0" width="64" height="10" rx="0" fill="#2AA198" />
-    <rect x="264" y="0" width="33" height="10" rx="0" fill="#E34F26" />
-    <rect x="297" y="0" width="17" height="10" rx="5" fill="#7B61FF" />
+    <rect x="0" y="152" width="8" height="8" rx="2" fill="#7B61FF" />
+    <text class="label" x="18" y="160">R</text>
+    <text class="value" x="294" y="160">5%</text>
+    <rect x="0" y="168" width="288" height="8" rx="4" fill="#233047" />
+    <rect x="0" y="168" width="14" height="8" rx="4" fill="#7B61FF" />
   </g>
 </svg>

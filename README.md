@@ -1,257 +1,251 @@
-# Olá, sou João Victor Lopes Rosa 👋
+<h1 align="center">João Victor Lopes Rosa</h1>
 
-<div align="center">
+<p align="center">
+  <strong>Full Stack Developer</strong> building web products, APIs and AI-driven workflows from Jacareí-SP.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jv-l0pes)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jv-l0pes-porfolio.onrender.com/)
-[![E-mail](https://img.shields.io/badge/E--mail-joao.v.lopes.rosa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.v.lopes.rosa@gmail.com)
+<p align="center">
+  <img src="./assets/profile-orbit.svg" width="100%" alt="Bold developer banner with João Victor Lopes Rosa's current stack and focus areas." />
+</p>
 
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=F4B400&center=true&vCenter=true&width=980&lines=React+%2B+TypeScript+for+product+interfaces;Node.js+and+FastAPI+for+APIs+that+need+to+scale;Generative+AI%2C+n8n+and+computer+vision+for+real+automation;Building+aura-central-autou+inside+appautou+%7C+DSM+at+FATEC+Jacare%C3%AD"
+      alt="Typing SVG with João Victor Lopes Rosa's focus areas."
+    />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/JV-L0pes?tab=followers">
+    <img src="https://img.shields.io/github/followers/JV-L0pes?style=for-the-badge&label=Followers&labelColor=0f172a&color=22c55e" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/jv-l0pes/">
+    <img src="https://img.shields.io/badge/LinkedIn-jv--l0pes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://jv-l0pes.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-live-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:joaovlr9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-joaovlr9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## 🎯 Sobre Mim
+<p align="center">
+  <a href="#pt-br">PT-BR</a> · <a href="#en">EN</a>
+</p>
 
-Desenvolvedor FullStack com experiência profissional em desenvolvimento de soluções web modernas e escaláveis. Atualmente trabalho desenvolvendo aplicações com React, Node.js e Python, implementando soluções de **IA generativa** e **automação com n8n**. 
+<h2 id="pt-br">PT-BR</h2>
 
-Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atuo como **Scrum Master** em projetos ABP e desenvolvo soluções inovadoras com **Computer Vision** e **Machine Learning**. Apaixonado por tecnologia, inovação e aprendizado contínuo, busco sempre unir criatividade e lógica para entregar soluções eficientes e impactantes.
+```ts
+const joao = {
+  cargo: "Desenvolvedor Full Stack",
+  localizacao: "Jacarei-SP, Brasil",
+  atual: "Desenvolvedor Full Stack @ AutoU, atuando no aura-central-autou",
+  formacao: "DSM na FATEC Jacarei (2025-2027)",
+  foco: [
+    "React + TypeScript",
+    "APIs com Node.js",
+    "FastAPI + SQLAlchemy",
+    "IA generativa + automacoes com n8n",
+    "Visao computacional com YOLO/OpenCV",
+  ],
+};
+```
 
----
-
-## 🛠️ Habilidades Técnicas
-
-<div align="center">
-
-### 🛠️ Stack Principal
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)]()
-
-</div>
-
-- **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Vite
-- **Backend:** Python, Node.js, Fastify, Flask
-- **IA & Automação:** Python, n8n, Machine Learning, Computer Vision, YOLO
-- **Banco de Dados:** PostgreSQL, MySQL, Prisma ORM
-- **Ferramentas:** Git, GitHub, n8n, Docker
-- **Metodologias:** Scrum (Scrum Master), Kanban, Agile
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🤖 Projetos de IA e Automação
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🛡️ **EPI-YOLO11**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/EPI-YOLO11)
-
-**Stack:** Python, YOLO11, OpenCV, Computer Vision  
-**Features:** Detecção automática de EPIs, sistema de segurança no trabalho, análise em tempo real
-
-</td>
-<td width="50%">
-
-#### 🧠 **ATENA**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/ATENA)
-
-**Stack:** Python, Machine Learning, Data Analysis  
-**Features:** Análise e processamento de dados com IA, algoritmos de aprendizado de máquina
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 👁️ **Shomer**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/Shomer)
-
-**Stack:** Python, Computer Vision, Monitoring Systems  
-**Features:** Sistema de monitoramento inteligente, análise automatizada com IA
-
-</td>
-<td width="50%">
-
-#### 📊 **Estatistica_Alzheimer**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/Estatistica_Alzheimer)
-
-**Stack:** R, Statistical Analysis, Data Visualization  
-**Features:** Análise estatística avançada, visualização de dados complexos
-
-</td>
-</tr>
-</table>
-
-### 🌐 Projetos Web e FullStack
+## O Que Eu Construo
 
 <table>
-<tr>
-<td width="50%">
-
-#### 🎨 **Portfólio Moderno**
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jv-l0pes-porfolio.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/JV-L0pes.github.io)
-
-**Stack:** React 18, TypeScript, Vite, Framer Motion  
-**Features:** Dark theme, internacionalização, animações fluidas, design responsivo
-
-</td>
-<td width="50%">
-
-#### 🔧 **sql-to-diagram**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/sql-to-diagram)
-
-**Stack:** Next.js, TypeScript, Tailwind CSS  
-**Features:** Transformação de SQL em diagramas ER visuais, interface intuitiva
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 💰 Investment-Management-Platform
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/Investment-Management-Platform
-)
-
-**Stack:** TypeScript, Fastify, Prisma, MySQL, Docker  
-**Features:** Sistema completo de gestão de investimentos, APIs RESTful
-
-</td>
-<td width="50%">
-
-#### 🏢 **AllTech-Site**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/AllTech-Site)
-
-**Stack:** TypeScript, Next.js, SEO  
-**Features:** Site corporativo moderno, otimização de performance
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Interfaces de Produto</h3>
+      <p>Aplicacoes web com React, Next.js, TypeScript e Tailwind, pensadas para clareza, performance e evolucao de design system.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>APIs e Plataformas Internas</h3>
+      <p>Backends em Node.js e FastAPI com foco em boas fronteiras, APIs RESTful e pipelines de qualidade prontos para ambiente real.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>IA e Automacao</h3>
+      <p>Projetos com IA generativa, automacao de processos e computer vision voltados para resolver operacao de verdade, nao so demo.</p>
+    </td>
+  </tr>
 </table>
 
-#### 📊 **Burndown Chart**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JV-L0pes/burndown-chart)
+## Agora
 
-**Stack:** JavaScript, Trello API, Chart.js  
-**Features:** Dashboard integrado com Trello para acompanhamento ágil, visualizações em tempo real
+- Construindo [`aura-central-autou`](https://github.com/appautou/aura-central-autou) na `appautou` como **Desenvolvedor Full Stack**.
+- Trabalhando com React, TypeScript, Node.js, Python, FastAPI, Azure AD, Jira e DDD em produto real.
+- Explorando IA generativa, automacao com n8n e visao computacional em projetos pessoais e profissionais.
+- Cursando DSM na FATEC Jacarei e atuando em projetos ABP em paralelo.
 
+## Destaques
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/appautou/aura-central-autou">aura-central-autou</a></h3>
+      <p>Meu principal portfolio de trabalho: monorepo privado com fluxos de projetos, CRM, recrutamento, identidade e desempenho.</p>
+      <p><strong>Stack:</strong> React, TypeScript, Node.js, Python, FastAPI, PostgreSQL, Azure AD, Jira</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JV-L0pes/Inbox-Copilot">Inbox-Copilot</a></h3>
+      <p>Triagem de emails com IA, upload de arquivos, sugestoes automaticas e historico de analises.</p>
+      <p><strong>Stack:</strong> Next.js, TypeScript, Python, FastAPI, OpenAI</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JV-L0pes/sql-to-diagram">sql-to-diagram</a></h3>
+      <p>Converte scripts SQL em diagramas ER visuais para iteracao rapida.</p>
+      <p><strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JV-L0pes/Shomer">Shomer</a></h3>
+      <p>Deteccao em tempo real para corpos e rostos com foco em performance.</p>
+      <p><strong>Stack:</strong> Python, YOLOv8, Computer Vision</p>
+    </td>
+  </tr>
+</table>
 
-## 🎓 Projetos ABP (Aprendizagem Baseada em Projetos)
+## Como Eu Trabalho
 
-> 💡 **Desenvolvimento colaborativo** em equipes multidisciplinares durante a graduação, aplicando metodologias ágeis e tecnologias modernas para resolver problemas reais.
+- Penso em produto, nao so em feature.
+- Gosto de codigo com fronteiras claras, qualidade automatizada e stack que aguenta crescer.
+- Boa parte do meu trabalho mais forte esta em repositorios privados, entao aqui eu mostro contexto tecnico e projetos publicos complementares.
 
-### 🏫 ErrorSquad-ABP
-**Contribuições como Frontend Lead e Technical Writer**
+<h2 id="en">EN</h2>
 
-- [**Gerenciamento_Pedagogico-Front**](https://github.com/ErrorSquad-ABP/Gerenciamento_Pedagogico-Front)  
-  _🎨 **Frontend Lead:** Desenvolvimento da interface responsiva e intuitiva do sistema pedagógico, implementando componentes reutilizáveis e otimizando a experiência do usuário. (JavaScript, React)_
-- [**Gerenciamento_Pedagogico-Documentacao**](https://github.com/ErrorSquad-ABP/Gerenciamento_Pedagogico-Documentacao)  
-  _📚 **Technical Writer:** Criação e manutenção da documentação técnica completa, incluindo guias de instalação, API documentation e manuais de usuário para facilitar a adoção do sistema._
+```ts
+const joao = {
+  role: "Full Stack Developer",
+  location: "Jacarei-SP, Brazil",
+  current: "Full Stack Developer @ AutoU, building aura-central-autou",
+  education: "DSM @ FATEC Jacarei (2025-2027)",
+  focus: [
+    "React + TypeScript",
+    "Node.js APIs",
+    "FastAPI + SQLAlchemy",
+    "Generative AI + n8n automations",
+    "Computer Vision with YOLO/OpenCV",
+  ],
+};
+```
 
-### 🚀 ExceptionH4ndlers
-**Scrum Master, Full Stack Developer e Technical Writer**
+## What I Build
 
-- [**ABP_2DSM**](https://github.com/ExceptionH4ndlers/ABP_2DSM)  
-  _🌟 **Scrum Master:** Facilitação de cerimônias ágeis, remoção de impedimentos e coordenação da equipe de desenvolvimento seguindo metodologias Scrum._
-  _💻 **Full Stack Developer:** Desenvolvimento completo de funcionalidades frontend e backend com TypeScript e tecnologias modernas._
-  _📚 **Technical Writer:** Criação e manutenção da documentação técnica completa para facilitar a adoção do sistema._
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Product Interfaces</h3>
+      <p>Web apps with React, Next.js, TypeScript and Tailwind, built for clarity, performance and maintainable component systems.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>APIs and Internal Platforms</h3>
+      <p>Backends in Node.js and FastAPI with a strong bias toward clean boundaries, RESTful APIs and production-ready quality gates.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI and Automation</h3>
+      <p>Generative AI, workflow automation and computer vision projects that solve real operational problems instead of staying as demos.</p>
+    </td>
+  </tr>
+</table>
 
----
+## Now
 
-## 💼 Experiência Profissional
+- Building [`aura-central-autou`](https://github.com/appautou/aura-central-autou) inside `appautou` as a **Full Stack Developer**.
+- Working with React, TypeScript, Node.js, Python, FastAPI, Azure AD, Jira and DDD in a real product environment.
+- Exploring generative AI, n8n automations and computer vision in personal and professional work.
+- Studying DSM at FATEC Jacarei while shipping ABP projects on the side.
 
-### 🏢 AllTechBR - Desenvolvedor de Software
-**Desenvolvimento de soluções tecnológicas inovadoras**
+## Highlights
 
-- **Desenvolvimento Full Stack:** Aplicações web responsivas com React, Node.js e Python
-- **IA Generativa:** Implementação de soluções de Machine Learning para análise de dados
-- **Automação:** Desenvolvimento de workflows inteligentes com n8n para integração de sistemas
-- **Computer Vision:** Implementação de algoritmos de detecção de objetos e análise de imagens
-- **APIs RESTful:** Desenvolvimento com Python (Flask) para processamento de dados
-- **Metodologias Ágeis:** Colaboração em equipes multidisciplinares seguindo práticas ágeis
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/appautou/aura-central-autou">aura-central-autou</a></h3>
+      <p>My main professional portfolio piece: a private monorepo covering projects, CRM, recruiting, identity and performance flows.</p>
+      <p><strong>Stack:</strong> React, TypeScript, Node.js, Python, FastAPI, PostgreSQL, Azure AD, Jira</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JV-L0pes/Inbox-Copilot">Inbox-Copilot</a></h3>
+      <p>AI-assisted email triage with file upload, automatic suggestions and analysis history.</p>
+      <p><strong>Stack:</strong> Next.js, TypeScript, Python, FastAPI, OpenAI</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JV-L0pes/sql-to-diagram">sql-to-diagram</a></h3>
+      <p>Turns SQL scripts into visual ER diagrams for fast iteration.</p>
+      <p><strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JV-L0pes/Shomer">Shomer</a></h3>
+      <p>Realtime body and face detection pipeline built around performance.</p>
+      <p><strong>Stack:</strong> Python, YOLOv8, Computer Vision</p>
+    </td>
+  </tr>
+</table>
 
----
+## How I Work
 
-## 📜 Certificações
+- I care about product, not just isolated features.
+- I like clear boundaries, automated quality and stacks that can grow without collapsing.
+- A meaningful part of my best work lives in private repositories, so this profile focuses on technical context plus complementary public projects.
 
-[![Udemy](https://img.shields.io/badge/Udemy-Git%20e%20GitHub-A435F0?style=flat&logo=udemy&logoColor=white)](https://github.com/JV-L0pes/Certificados)
-[![Cisco](https://img.shields.io/badge/Cisco-Linux%20Unhatched-1BA0D7?style=flat&logo=cisco&logoColor=white)](https://github.com/JV-L0pes/Certificados)
-[![Cursa](https://img.shields.io/badge/Cursa-Git%20Fundamentos-00C4CC?style=flat)](https://github.com/JV-L0pes/Certificados)
+## Tech Radar / Radar Tecnico
 
----
+<p>
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
+  <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/YOLO-111827?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="YOLO" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
+</p>
 
-## 🎓 Formação Acadêmica
-- **Fatec Jacareí** — Desenvolvimento de Software Multiplataforma (2025-2027, em andamento)
+## GitHub Pulse
 
----
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=JV-L0pes&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=22c55e&text_color=cbd5e1&icon_color=f59e0b&include_all_commits=true"
+    alt="GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JV-L0pes&layout=compact&hide_border=true&bg_color=00000000&title_color=22c55e&text_color=cbd5e1&langs_count=8"
+    alt="Top languages"
+  />
+</p>
 
-## 🌐 Idiomas
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JV-L0pes/JV-L0pes/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JV-L0pes/JV-L0pes/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JV-L0pes/JV-L0pes/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-Nativo-green?style=flat)]()
-[![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-Avan%C3%A7ado-blue?style=flat)]()
+## Contact / Contato
 
----
+<p align="center">
+  If you're building useful products, internal platforms or AI-powered workflows, let's talk.
+  <br />
+  Se voce estiver construindo produtos uteis, plataformas internas ou fluxos com IA, vamos conversar.
+</p>
 
-## 💡 Soft Skills
-
-[![Comunicação](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o%20eficaz-FFD700?style=flat)]()
-[![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-00BFFF?style=flat)]()
-[![Resolução de Problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-FF69B4?style=flat)]()
-[![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado%20Cont%C3%ADnuo-32CD32?style=flat)]()
-
----
-
-## 📚 Atualmente Aprendendo
-- 🧠 **Inteligência Artificial Generativa** - Aplicando LLMs em projetos reais na AllTechBR
-- 🔧 **Automação Avançada com n8n** - Desenvolvendo workflows complexos para integração de sistemas
-- 📊 **Computer Vision Avançada** - Implementando YOLO11 e algoritmos de detecção em produção
-- 🏗️ **Arquiteturas Escaláveis** - Desenvolvendo sistemas distribuídos com Node.js e Python
-- 🎯 **Scrum Master** - Liderando equipes ágeis em projetos ABP e profissionais
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=JV-L0pes&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 📫 Como Me Encontrar
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Victor_Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jv-l0pes/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jv-l0pes-porfolio.onrender.com/)
-
-📍 **São Paulo, Brasil** | 🕐 **UTC -03:00**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐️ Obrigado pela visita!
-
-**Desenvolvido com ❤️ por [JV-L0pes](https://github.com/JV-L0pes)**
-
-![Profile Views](https://komarev.com/ghpvc/?username=JV-L0pes&color=blueviolet&style=for-the-badge)
-
-</div>
+<p align="center">
+  <a href="mailto:joaovlr9@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/jv-l0pes/">LinkedIn</a>
+  ·
+  <a href="https://jv-l0pes.github.io/">Portfolio</a>
+</p>

@@ -1,0 +1,73 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Joao Victor Lopes Rosa profile banner</title>
+  <desc id="desc">A clean and bold developer banner with strong typography, subtle gradients and a concise summary of Joao Victor Lopes Rosa's current work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="48" x2="1188" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111C" />
+      <stop offset="0.6" stop-color="#0F172A" />
+      <stop offset="1" stop-color="#182235" />
+    </linearGradient>
+    <linearGradient id="accent" x1="132" y1="118" x2="860" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" />
+      <stop offset="0.5" stop-color="#F8FAFC" />
+      <stop offset="1" stop-color="#F59E0B" />
+    </linearGradient>
+    <linearGradient id="soft" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity="0.08" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.02" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1048 114) rotate(90) scale(120 160)">
+      <stop stop-color="#22C55E" stop-opacity="0.14" />
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0" />
+    </radialGradient>
+    <style>
+      .kicker {
+        font: 700 12px 'Segoe UI', Arial, sans-serif;
+        fill: #94A3B8;
+        letter-spacing: 0.24em;
+      }
+      .name {
+        font: 800 62px 'Segoe UI', Arial, sans-serif;
+        fill: #F8FAFC;
+        letter-spacing: -0.04em;
+      }
+      .body {
+        font: 600 20px 'Segoe UI', Arial, sans-serif;
+        fill: #CBD5E1;
+      }
+      .meta {
+        font: 700 12px 'Segoe UI', Arial, sans-serif;
+        fill: #E2E8F0;
+        letter-spacing: 0.05em;
+      }
+      .chip {
+        font: 700 14px 'Segoe UI', Arial, sans-serif;
+        fill: #F8FAFC;
+      }
+    </style>
+  </defs>
+
+  <rect x="12" y="12" width="1256" height="396" rx="28" fill="url(#bg)" />
+  <rect x="12" y="12" width="1256" height="396" rx="28" stroke="#233047" />
+
+  <ellipse cx="1048" cy="114" rx="180" ry="110" fill="url(#glow)" />
+
+  <path d="M132 118H924" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" />
+  <path d="M132 314H1148" stroke="#1E293B" stroke-linecap="round" />
+
+  <text class="kicker" x="134" y="92">FULL STACK DEVELOPER</text>
+  <text class="name" x="132" y="182">JOAO VICTOR</text>
+  <text class="name" x="132" y="246">LOPES ROSA</text>
+  <text class="body" x="136" y="292">Building products, APIs and AI workflows with a practical engineering mindset.</text>
+
+  <g>
+    <rect x="136" y="338" width="162" height="30" rx="15" fill="#111B2C" stroke="#334155" />
+    <text class="meta" x="160" y="358">PRODUCTS</text>
+
+    <rect x="314" y="338" width="108" height="30" rx="15" fill="#111B2C" stroke="#334155" />
+    <text class="meta" x="344" y="358">APIS</text>
+
+    <rect x="438" y="338" width="178" height="30" rx="15" fill="#111B2C" stroke="#334155" />
+    <text class="meta" x="464" y="358">AI WORKFLOWS</text>
+  </g>
+</svg>

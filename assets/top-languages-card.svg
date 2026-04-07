@@ -1,6 +1,6 @@
 <svg width="360" height="200" viewBox="0 0 360 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Top languages card</title>
-  <desc id="desc">A clean top languages card highlighting TypeScript, JavaScript, Python, HTML and R with distinct colors and a rounded segmented bar chart.</desc>
+  <desc id="desc">A top languages card with a pie chart for TypeScript, JavaScript, Python, HTML and R.</desc>
   <defs>
     <linearGradient id="bg" x1="18" y1="14" x2="332" y2="188" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0F172A" />
@@ -26,39 +26,35 @@
 
   <text class="title" x="24" y="34">Top Languages</text>
 
-  <g transform="translate(24 52)">
+  <g transform="translate(24 58)">
     <rect x="0" y="0" width="8" height="8" rx="2" fill="#3178C6" />
     <text class="label" x="18" y="8">TypeScript</text>
-    <text class="value" x="286" y="8">37%</text>
+    <text class="value" x="102" y="8">37%</text>
 
-    <rect x="0" y="38" width="8" height="8" rx="2" fill="#F7DF1E" />
-    <text class="label" x="18" y="46">JavaScript</text>
-    <text class="value" x="286" y="46">29%</text>
+    <rect x="0" y="26" width="8" height="8" rx="2" fill="#F7DF1E" />
+    <text class="label" x="18" y="34">JavaScript</text>
+    <text class="value" x="102" y="34">29%</text>
 
-    <rect x="0" y="76" width="8" height="8" rx="2" fill="#2AA198" />
-    <text class="label" x="18" y="84">Python</text>
-    <text class="value" x="286" y="84">21%</text>
+    <rect x="0" y="52" width="8" height="8" rx="2" fill="#2AA198" />
+    <text class="label" x="18" y="60">Python</text>
+    <text class="value" x="102" y="60">21%</text>
 
-    <rect x="0" y="114" width="8" height="8" rx="2" fill="#E34F26" />
-    <text class="label" x="18" y="122">HTML</text>
-    <text class="value" x="294" y="122">8%</text>
+    <rect x="0" y="78" width="8" height="8" rx="2" fill="#E34F26" />
+    <text class="label" x="18" y="86">HTML</text>
+    <text class="value" x="102" y="86">8%</text>
 
-    <rect x="0" y="152" width="8" height="8" rx="2" fill="#7B61FF" />
-    <text class="label" x="18" y="160">R</text>
-    <text class="value" x="294" y="160">5%</text>
+    <rect x="0" y="104" width="8" height="8" rx="2" fill="#7B61FF" />
+    <text class="label" x="18" y="112">R</text>
+    <text class="value" x="102" y="112">5%</text>
   </g>
 
-  <g transform="translate(24 166)">
-    <rect x="0" y="0" width="312" height="14" rx="7" fill="#233047" />
-    <clipPath id="barClip">
-      <rect x="0" y="0" width="312" height="14" rx="7" />
-    </clipPath>
-    <g clip-path="url(#barClip)">
-      <rect x="0" y="0" width="115" height="14" fill="#3178C6" />
-      <rect x="115" y="0" width="90" height="14" fill="#F7DF1E" />
-      <rect x="205" y="0" width="66" height="14" fill="#2AA198" />
-      <rect x="271" y="0" width="25" height="14" fill="#E34F26" />
-      <rect x="296" y="0" width="16" height="14" fill="#7B61FF" />
-    </g>
+  <g transform="translate(258 106)">
+    <circle cx="0" cy="0" r="60" fill="#233047" />
+    <path d="M 0.000 -60.000 A 60 60 0 0 1 43.717 41.101 L 0 0 Z" fill="#3178C6" />
+    <path d="M 43.717 41.101 A 60 60 0 0 1 -50.581 32.269 L 0 0 Z" fill="#F7DF1E" />
+    <path d="M -50.581 32.269 A 60 60 0 0 1 -58.860 -11.644 L 0 0 Z" fill="#2AA198" />
+    <path d="M -58.860 -11.644 A 60 60 0 0 1 -48.541 -35.267 L 0 0 Z" fill="#E34F26" />
+    <path d="M -48.541 -35.267 A 60 60 0 0 1 -0.000 -60.000 L 0 0 Z" fill="#7B61FF" />
+    <circle cx="0" cy="0" r="22" fill="#0F172A" />
   </g>
 </svg>

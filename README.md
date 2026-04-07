@@ -214,8 +214,8 @@ const joao = {
     alt="GitHub stats summary card"
   />
   <img
-    src="https://raw.githubusercontent.com/JV-L0pes/JV-L0pes/main/profile-summary-card-output/transparent/1-repos-per-language.svg"
-    alt="Top languages summary card"
+    src="./assets/top-languages-card.svg"
+    alt="Custom top languages card"
   />
 </p>
 
@@ -233,12 +233,4 @@ const joao = {
   If you're building useful products, internal platforms or AI-powered workflows, let's talk.
   <br />
   Se voce estiver construindo produtos uteis, plataformas internas ou fluxos com IA, vamos conversar.
-</p>
-
-<p align="center">
-  <a href="mailto:joaovlr9@gmail.com">📧 Email</a>
-  ·
-  <a href="https://www.linkedin.com/in/jv-l0pes/">💼 LinkedIn</a>
-  ·
-  <a href="https://jv-l0pes.github.io/">🌐 Portfolio</a>
 </p>

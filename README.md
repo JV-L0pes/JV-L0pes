@@ -22,7 +22,7 @@
   ·
   <a href="https://www.linkedin.com/in/jv-l0pes/">💼 LinkedIn</a>
   ·
-  <a href="https://jv-l0pes.github.io/">🌐 Portfolio</a>
+  <a href="https://jv-l0pes-porfolio-7d66.vercel.app/">🌐 Portfolio</a>
   ·
   <a href="https://github.com/JV-L0pes?tab=followers">👥 Followers</a>
 </p>

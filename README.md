@@ -1,7 +1,7 @@
 <h1 align="center">João Victor Lopes Rosa</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> building web products, APIs and AI-driven workflows from Jacareí-SP.
+  <strong>Full Stack Developer</strong> building internal platforms, product systems and software architecture from Jacareí-SP.
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=F4B400&center=true&vCenter=true&width=980&lines=React+%2B+TypeScript+for+product+interfaces;Node.js+and+FastAPI+for+APIs+that+need+to+scale;Generative+AI%2C+n8n+and+computer+vision+for+real+automation;Building+aura-central-autou+inside+appautou+%7C+DSM+at+FATEC+Jacare%C3%AD"
+      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=F4B400&center=true&vCenter=true&width=980&lines=React+%2B+TypeScript+for+product+interfaces;FastAPI+%2B+NestJS+for+domain-oriented+backends;DDD%2C+ADRs+and+modular+monoliths+in+real+products;Building+aura-central-autou+inside+appautou+%7C+DSM+at+FATEC+Jacare%C3%AD"
       alt="Typing SVG with João Victor Lopes Rosa's focus areas."
     />
   </a>
@@ -41,10 +41,10 @@ const joao = {
   formacao: "DSM na FATEC Jacarei (2025-2027)",
   foco: [
     "React + TypeScript",
-    "APIs com Node.js",
-    "FastAPI + SQLAlchemy",
-    "IA generativa + automacoes com n8n",
-    "Visao computacional com YOLO/OpenCV",
+    "FastAPI + NestJS",
+    "DDD + monolito modular",
+    "ADRs e decisoes arquiteturais",
+    "LLM aplicado em produto (structured outputs)",
   ],
 };
 ```
@@ -62,17 +62,17 @@ const joao = {
       <p>Backends em Node.js e FastAPI com foco em boas fronteiras, APIs RESTful e pipelines de qualidade prontos para ambiente real.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>IA e Automacao</h3>
-      <p>Projetos com IA generativa, automacao de processos e computer vision voltados para resolver operacao de verdade, nao so demo.</p>
+      <h3>Arquitetura de Software</h3>
+      <p>Decomposicao de dominios, monolito modular, ADRs, RBAC no backend e decisoes tecnicas com impacto em produto real.</p>
     </td>
   </tr>
 </table>
 
 ## Agora
 
-- Construindo [`aura-central-autou`](https://github.com/appautou/aura-central-autou) na `appautou` como **Desenvolvedor Full Stack**.
-- Trabalhando com React, TypeScript, Node.js, Python, FastAPI, Azure AD, Jira e DDD em produto real.
-- Explorando IA generativa, automacao com n8n e visao computacional em projetos pessoais e profissionais.
+- Construindo [`aura-central-autou`](https://github.com/appautou/aura-central-autou) na `appautou` como **principal desenvolvedor do Aura**.
+- Trabalhando com React, TypeScript, FastAPI, NestJS, Azure AD, Jira e DDD em produto interno em producao.
+- Documentando decisoes com ADRs e evoluindo arquitetura orientada a dominios.
 - Cursando DSM na FATEC Jacarei e atuando em projetos ABP em paralelo.
 
 ## Destaques
@@ -97,9 +97,9 @@ const joao = {
       <p><strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JV-L0pes/Shomer">Shomer</a></h3>
-      <p>Deteccao em tempo real para corpos e rostos com foco em performance.</p>
-      <p><strong>Stack:</strong> Python, YOLOv8, Computer Vision</p>
+      <h3><a href="https://github.com/ArchFlowPlatform/ArchFlow">ArchFlow MVP</a></h3>
+      <p>Gestao agil orientada a arquitetura: ADRs, C4, ERD com geracao de SQL/migrations e rastreabilidade do requisito ao deploy.</p>
+      <p><strong>Stack:</strong> .NET, Next.js, TypeScript, PostgreSQL</p>
     </td>
   </tr>
 </table>
@@ -120,10 +120,10 @@ const joao = {
   education: "DSM @ FATEC Jacarei (2025-2027)",
   focus: [
     "React + TypeScript",
-    "Node.js APIs",
-    "FastAPI + SQLAlchemy",
-    "Generative AI + n8n automations",
-    "Computer Vision with YOLO/OpenCV",
+    "FastAPI + NestJS",
+    "DDD + modular monolith",
+    "ADRs and architecture decisions",
+    "Applied LLM in product (structured outputs)",
   ],
 };
 ```
@@ -141,17 +141,17 @@ const joao = {
       <p>Backends in Node.js and FastAPI with a strong bias toward clean boundaries, RESTful APIs and production-ready quality gates.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>AI and Automation</h3>
-      <p>Generative AI, workflow automation and computer vision projects that solve real operational problems instead of staying as demos.</p>
+      <h3>Software Architecture</h3>
+      <p>Domain decomposition, modular monoliths, ADRs, backend RBAC, and technical decisions that affect real product delivery.</p>
     </td>
   </tr>
 </table>
 
 ## Now
 
-- Building [`aura-central-autou`](https://github.com/appautou/aura-central-autou) inside `appautou` as a **Full Stack Developer**.
-- Working with React, TypeScript, Node.js, Python, FastAPI, Azure AD, Jira and DDD in a real product environment.
-- Exploring generative AI, n8n automations and computer vision in personal and professional work.
+- Building [`aura-central-autou`](https://github.com/appautou/aura-central-autou) inside `appautou` as **lead developer on Aura**.
+- Working with React, TypeScript, FastAPI, NestJS, Azure AD, Jira, and DDD in a production internal platform.
+- Documenting decisions with ADRs and evolving a domain-oriented architecture.
 - Studying DSM at FATEC Jacarei while shipping ABP projects on the side.
 
 ## Highlights
@@ -176,9 +176,9 @@ const joao = {
       <p><strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JV-L0pes/Shomer">Shomer</a></h3>
-      <p>Realtime body and face detection pipeline built around performance.</p>
-      <p><strong>Stack:</strong> Python, YOLOv8, Computer Vision</p>
+      <h3><a href="https://github.com/ArchFlowPlatform/ArchFlow">ArchFlow MVP</a></h3>
+      <p>Architecture-first agile product: ADRs, C4 diagrams, ERD with SQL/migration generation, and end-to-end traceability.</p>
+      <p><strong>Stack:</strong> .NET, Next.js, TypeScript, PostgreSQL</p>
     </td>
   </tr>
 </table>
@@ -200,9 +200,8 @@ const joao = {
   <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
+  <img src="https://img.shields.io/badge/NestJS-111827?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
   <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/YOLO-111827?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="YOLO" />
   <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
 </p>
 
@@ -230,7 +229,7 @@ const joao = {
 ## Contact / Contato
 
 <p align="center">
-  If you're building useful products, internal platforms or AI-powered workflows, let's talk.
+  If you're building useful products, internal platforms or domain-oriented systems, let's talk.
   <br />
-  Se voce estiver construindo produtos uteis, plataformas internas ou fluxos com IA, vamos conversar.
+  Se voce estiver construindo produtos uteis, plataformas internas ou sistemas orientados a dominio, vamos conversar.
 </p>

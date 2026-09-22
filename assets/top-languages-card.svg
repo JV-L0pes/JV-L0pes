@@ -41,46 +41,46 @@
       <circle cx="40" cy="89" r="4.5" fill="#3178C6" />
       <text class="lang" x="58" y="94">TypeScript</text>
       <rect x="200" y="86" width="200" height="6" rx="3" fill="#16223A" />
-      <rect x="200" y="86" width="98" height="6" rx="3" fill="#3178C6">
-        <animate attributeName="width" from="0" to="98" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      <rect x="200" y="86" width="108" height="6" rx="3" fill="#3178C6">
+        <animate attributeName="width" from="0" to="108" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
       </rect>
-      <text class="pct" x="444" y="94" text-anchor="end">49%</text>
+      <text class="pct" x="444" y="94" text-anchor="end">54%</text>
     </g>
     <g>
       <circle cx="40" cy="122" r="4.5" fill="#3572A5" />
       <text class="lang" x="58" y="127">Python</text>
       <rect x="200" y="119" width="200" height="6" rx="3" fill="#16223A" />
-      <rect x="200" y="119" width="80" height="6" rx="3" fill="#3572A5">
-        <animate attributeName="width" from="0" to="80" dur="0.9s" begin="0.37s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      <rect x="200" y="119" width="78" height="6" rx="3" fill="#3572A5">
+        <animate attributeName="width" from="0" to="78" dur="0.9s" begin="0.37s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
       </rect>
-      <text class="pct" x="444" y="127" text-anchor="end">40%</text>
+      <text class="pct" x="444" y="127" text-anchor="end">39%</text>
     </g>
     <g>
       <circle cx="40" cy="155" r="4.5" fill="#663399" />
       <text class="lang" x="58" y="160">CSS</text>
       <rect x="200" y="152" width="200" height="6" rx="3" fill="#16223A" />
-      <rect x="200" y="152" width="10" height="6" rx="3" fill="#663399">
-        <animate attributeName="width" from="0" to="10" dur="0.9s" begin="0.49s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      <rect x="200" y="152" width="11" height="6" rx="3" fill="#663399">
+        <animate attributeName="width" from="0" to="11" dur="0.9s" begin="0.49s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
       </rect>
       <text class="pct" x="444" y="160" text-anchor="end">5%</text>
     </g>
     <g>
-      <circle cx="40" cy="188" r="4.5" fill="#E34F26" />
-      <text class="lang" x="58" y="193">HTML</text>
+      <circle cx="40" cy="188" r="4.5" fill="#F1E05A" />
+      <text class="lang" x="58" y="193">JavaScript</text>
       <rect x="200" y="185" width="200" height="6" rx="3" fill="#16223A" />
-      <rect x="200" y="185" width="9" height="6" rx="3" fill="#E34F26">
-        <animate attributeName="width" from="0" to="9" dur="0.9s" begin="0.61s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      <rect x="200" y="185" width="6" height="6" rx="3" fill="#F1E05A">
+        <animate attributeName="width" from="0" to="6" dur="0.9s" begin="0.61s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
       </rect>
-      <text class="pct" x="444" y="193" text-anchor="end">5%</text>
+      <text class="pct" x="444" y="193" text-anchor="end">2%</text>
     </g>
     <g>
-      <circle cx="40" cy="221" r="4.5" fill="#F1E05A" />
-      <text class="lang" x="58" y="226">JavaScript</text>
+      <circle cx="40" cy="221" r="4.5" fill="#E34F26" />
+      <text class="lang" x="58" y="226">HTML</text>
       <rect x="200" y="218" width="200" height="6" rx="3" fill="#16223A" />
-      <rect x="200" y="218" width="6" height="6" rx="3" fill="#F1E05A">
+      <rect x="200" y="218" width="6" height="6" rx="3" fill="#E34F26">
         <animate attributeName="width" from="0" to="6" dur="0.9s" begin="0.73s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
       </rect>
-      <text class="pct" x="444" y="226" text-anchor="end">1%</text>
+      <text class="pct" x="444" y="226" text-anchor="end">0%</text>
     </g>
 
   <rect x="40" y="240" width="400" height="1" fill="#1B2740" />

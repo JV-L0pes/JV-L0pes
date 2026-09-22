@@ -1,0 +1,39 @@
+<svg width="1280" height="72" viewBox="0 0 1280 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Section divider</title>
+  <desc id="desc">A thin animated hairline divider with an amber node and a traveling glow, separating the profile sections.</desc>
+  <defs>
+    <linearGradient id="dv-line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#1B2740" stop-opacity="0" />
+      <stop offset="0.22" stop-color="#1B2740" />
+      <stop offset="0.78" stop-color="#1B2740" />
+      <stop offset="1" stop-color="#1B2740" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="dv-head" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#F4B400" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#F4B400" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="dv-glow" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#F4B400" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#F4B400" stop-opacity="0.55" />
+      <stop offset="1" stop-color="#F4B400" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="dv-clip">
+      <rect x="0" y="35" width="1280" height="2" />
+    </clipPath>
+  </defs>
+
+  <rect x="0" y="35.5" width="1280" height="1" fill="url(#dv-line)" />
+  <rect x="28" y="35.5" width="150" height="1" fill="url(#dv-head)" />
+
+  <g>
+    <rect x="36.5" y="31.5" width="9" height="9" fill="#F4B400" fill-opacity="0.9">
+      <animateTransform attributeName="transform" type="rotate" from="45 41 36" to="405 41 36" dur="26s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <g clip-path="url(#dv-clip)">
+    <rect x="0" y="35" width="170" height="2" fill="url(#dv-glow)">
+      <animateTransform attributeName="transform" type="translate" values="-180 0; 1300 0; 1300 0" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.68;1" keySplines="0.4 0 0.2 1;0 0 1 1" />
+    </rect>
+  </g>
+</svg>

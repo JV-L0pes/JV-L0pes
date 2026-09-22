@@ -1,60 +1,89 @@
-<svg width="360" height="200" viewBox="0 0 360 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="480" height="276" viewBox="0 0 480 276" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Top languages card</title>
-  <desc id="desc">A top languages card with a pie chart for TypeScript, JavaScript, Python, HTML and R.</desc>
+  <desc id="desc">Share of code by language across all owned repositories, updated 2026-09-22.</desc>
   <defs>
-    <linearGradient id="bg" x1="18" y1="14" x2="332" y2="188" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A" />
-      <stop offset="1" stop-color="#172033" />
+    <linearGradient id="tl-core" x1="60" y1="18" x2="430" y2="258" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1424" />
+      <stop offset="0.55" stop-color="#0A111E" />
+      <stop offset="1" stop-color="#0E1B31" />
     </linearGradient>
     <style>
-      .title {
-        font: 700 22px 'Segoe UI', Arial, sans-serif;
-        fill: #F8FAFC;
+      .kicker {
+        font: 600 12px 'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, monospace;
+        fill: #F4B400;
+        letter-spacing: 0.24em;
       }
-      .label {
-        font: 600 13px 'Segoe UI', Arial, sans-serif;
-        fill: #CBD5E1;
+      .lang {
+        font: 600 13.5px 'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, monospace;
+        fill: #E2E8F0;
       }
-      .value {
-        font: 700 13px 'Segoe UI', Arial, sans-serif;
-        fill: #F8FAFC;
+      .pct {
+        font: 700 12.5px 'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, monospace;
+        fill: #F5F8FC;
+      }
+      .note {
+        font: 500 10.5px 'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, monospace;
+        fill: #6E7E97;
+        letter-spacing: 0.04em;
       }
     </style>
   </defs>
 
-  <rect x="1" y="1" width="358" height="198" rx="18" fill="url(#bg)" stroke="#334155" />
+  <rect x="8" y="8" width="464" height="260" rx="24" fill="#060A12" stroke="#1B2740" />
+  <rect x="18" y="18" width="444" height="240" rx="18" fill="url(#tl-core)" />
+  <rect x="18" y="18" width="444" height="240" rx="18" stroke="#FFFFFF" stroke-opacity="0.05" />
 
-  <text class="title" x="24" y="34">Top Languages</text>
+  <text class="kicker" x="40" y="46">TOP LANGUAGES</text>
+  <rect x="40" y="58" width="400" height="1" fill="#1B2740" />
+  <rect x="40" y="58" width="120" height="1" fill="#F4B400" fill-opacity="0.55" />
 
-  <g transform="translate(24 58)">
-    <rect x="0" y="0" width="8" height="8" rx="2" fill="#3178C6" />
-    <text class="label" x="18" y="8">TypeScript</text>
-    <text class="value" x="102" y="8">37%</text>
+    <g>
+      <circle cx="40" cy="89" r="4.5" fill="#3178C6" />
+      <text class="lang" x="58" y="94">TypeScript</text>
+      <rect x="200" y="86" width="200" height="6" rx="3" fill="#16223A" />
+      <rect x="200" y="86" width="98" height="6" rx="3" fill="#3178C6">
+        <animate attributeName="width" from="0" to="98" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      </rect>
+      <text class="pct" x="444" y="94" text-anchor="end">49%</text>
+    </g>
+    <g>
+      <circle cx="40" cy="122" r="4.5" fill="#3572A5" />
+      <text class="lang" x="58" y="127">Python</text>
+      <rect x="200" y="119" width="200" height="6" rx="3" fill="#16223A" />
+      <rect x="200" y="119" width="80" height="6" rx="3" fill="#3572A5">
+        <animate attributeName="width" from="0" to="80" dur="0.9s" begin="0.37s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      </rect>
+      <text class="pct" x="444" y="127" text-anchor="end">40%</text>
+    </g>
+    <g>
+      <circle cx="40" cy="155" r="4.5" fill="#663399" />
+      <text class="lang" x="58" y="160">CSS</text>
+      <rect x="200" y="152" width="200" height="6" rx="3" fill="#16223A" />
+      <rect x="200" y="152" width="10" height="6" rx="3" fill="#663399">
+        <animate attributeName="width" from="0" to="10" dur="0.9s" begin="0.49s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      </rect>
+      <text class="pct" x="444" y="160" text-anchor="end">5%</text>
+    </g>
+    <g>
+      <circle cx="40" cy="188" r="4.5" fill="#E34F26" />
+      <text class="lang" x="58" y="193">HTML</text>
+      <rect x="200" y="185" width="200" height="6" rx="3" fill="#16223A" />
+      <rect x="200" y="185" width="9" height="6" rx="3" fill="#E34F26">
+        <animate attributeName="width" from="0" to="9" dur="0.9s" begin="0.61s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      </rect>
+      <text class="pct" x="444" y="193" text-anchor="end">5%</text>
+    </g>
+    <g>
+      <circle cx="40" cy="221" r="4.5" fill="#F1E05A" />
+      <text class="lang" x="58" y="226">JavaScript</text>
+      <rect x="200" y="218" width="200" height="6" rx="3" fill="#16223A" />
+      <rect x="200" y="218" width="6" height="6" rx="3" fill="#F1E05A">
+        <animate attributeName="width" from="0" to="6" dur="0.9s" begin="0.73s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      </rect>
+      <text class="pct" x="444" y="226" text-anchor="end">1%</text>
+    </g>
 
-    <rect x="0" y="26" width="8" height="8" rx="2" fill="#F7DF1E" />
-    <text class="label" x="18" y="34">JavaScript</text>
-    <text class="value" x="102" y="34">29%</text>
-
-    <rect x="0" y="52" width="8" height="8" rx="2" fill="#2AA198" />
-    <text class="label" x="18" y="60">Python</text>
-    <text class="value" x="102" y="60">21%</text>
-
-    <rect x="0" y="78" width="8" height="8" rx="2" fill="#E34F26" />
-    <text class="label" x="18" y="86">HTML</text>
-    <text class="value" x="102" y="86">8%</text>
-
-    <rect x="0" y="104" width="8" height="8" rx="2" fill="#7B61FF" />
-    <text class="label" x="18" y="112">R</text>
-    <text class="value" x="102" y="112">5%</text>
-  </g>
-
-  <g transform="translate(258 106)">
-    <circle cx="0" cy="0" r="60" fill="#233047" />
-    <path d="M 0.000 -60.000 A 60 60 0 0 1 43.717 41.101 L 0 0 Z" fill="#3178C6" />
-    <path d="M 43.717 41.101 A 60 60 0 0 1 -50.581 32.269 L 0 0 Z" fill="#F7DF1E" />
-    <path d="M -50.581 32.269 A 60 60 0 0 1 -58.860 -11.644 L 0 0 Z" fill="#2AA198" />
-    <path d="M -58.860 -11.644 A 60 60 0 0 1 -48.541 -35.267 L 0 0 Z" fill="#E34F26" />
-    <path d="M -48.541 -35.267 A 60 60 0 0 1 -0.000 -60.000 L 0 0 Z" fill="#7B61FF" />
-    <circle cx="0" cy="0" r="22" fill="#0F172A" />
-  </g>
+  <rect x="40" y="240" width="400" height="1" fill="#1B2740" />
+  <text class="note" x="40" y="258">updated 2026-09-22 · by bytes</text>
+  <text class="note" x="440" y="258" text-anchor="end">top 5 of all owned repos</text>
 </svg>

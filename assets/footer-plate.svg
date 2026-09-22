@@ -1,0 +1,51 @@
+<svg width="1280" height="190" viewBox="0 0 1280 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Footer plate</title>
+  <desc id="desc">A closing plate with the JV monogram, the full name and a copyright line.</desc>
+  <defs>
+    <linearGradient id="ft-core" x1="120" y1="18" x2="1160" y2="172" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1424" />
+      <stop offset="0.55" stop-color="#0A111E" />
+      <stop offset="1" stop-color="#0E1B31" />
+    </linearGradient>
+    <linearGradient id="ft-shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#F4B400" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#F4B400" stop-opacity="0.8" />
+      <stop offset="1" stop-color="#F4B400" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="ft-rail">
+      <rect x="480" y="149" width="320" height="3" rx="1.5" />
+    </clipPath>
+    <style>
+      .ft-name {
+        font: 600 13px 'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, monospace;
+        fill: #C3CFE0;
+        letter-spacing: 0.22em;
+      }
+      .ft-sub {
+        font: 400 12.5px 'Geist', 'Segoe UI Variable Text', 'Segoe UI', system-ui, sans-serif;
+        fill: #8595AD;
+      }
+      .ft-mark {
+        font: 700 16px 'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, monospace;
+        fill: #F4B400;
+      }
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="1264" height="174" rx="26" fill="#060A12" stroke="#1B2740" />
+  <rect x="18" y="18" width="1244" height="154" rx="20" fill="url(#ft-core)" />
+  <rect x="18" y="18" width="1244" height="154" rx="20" stroke="#FFFFFF" stroke-opacity="0.05" />
+
+  <rect x="619" y="42" width="42" height="42" rx="12" fill="#0E1A30" stroke="#2A3A5C" />
+  <text class="ft-mark" x="640" y="69" text-anchor="middle">JV</text>
+
+  <text class="ft-name" x="640" y="110" text-anchor="middle">JOÃO VICTOR LOPES ROSA</text>
+  <text class="ft-sub" x="640" y="134" text-anchor="middle">© 2026 · full stack developer · Jacareí-SP, Brasil</text>
+
+  <rect x="480" y="150" width="320" height="1" fill="#1B2740" />
+  <g clip-path="url(#ft-rail)">
+    <rect x="0" y="149" width="110" height="3" rx="1.5" fill="url(#ft-shimmer)">
+      <animateTransform attributeName="transform" type="translate" values="-120 0; 440 0; 440 0" dur="5.6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.7;1" keySplines="0.4 0 0.2 1;0 0 1 1" />
+    </rect>
+  </g>
+</svg>

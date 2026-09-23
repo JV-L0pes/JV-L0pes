@@ -1,6 +1,6 @@
 <svg width="480" height="276" viewBox="0 0 480 276" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Top languages card</title>
-  <desc id="desc">Share of code by language across all owned repositories, updated 2026-09-22.</desc>
+  <desc id="desc">Share of code by language across all owned repositories, updated 2026-09-23.</desc>
   <defs>
     <linearGradient id="tl-core" x1="60" y1="18" x2="430" y2="258" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1424" />
@@ -41,26 +41,26 @@
       <circle cx="40" cy="89" r="4.5" fill="#3572A5" />
       <text class="lang" x="58" y="94">Python</text>
       <rect x="200" y="86" width="200" height="6" rx="3" fill="#16223A" />
-      <rect x="200" y="86" width="105" height="6" rx="3" fill="#3572A5">
-        <animate attributeName="width" from="0" to="105" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      <rect x="200" y="86" width="109" height="6" rx="3" fill="#3572A5">
+        <animate attributeName="width" from="0" to="109" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
       </rect>
-      <text class="pct" x="444" y="94" text-anchor="end">52%</text>
+      <text class="pct" x="444" y="94" text-anchor="end">54%</text>
     </g>
     <g>
       <circle cx="40" cy="122" r="4.5" fill="#3178C6" />
       <text class="lang" x="58" y="127">TypeScript</text>
       <rect x="200" y="119" width="200" height="6" rx="3" fill="#16223A" />
-      <rect x="200" y="119" width="84" height="6" rx="3" fill="#3178C6">
-        <animate attributeName="width" from="0" to="84" dur="0.9s" begin="0.37s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      <rect x="200" y="119" width="81" height="6" rx="3" fill="#3178C6">
+        <animate attributeName="width" from="0" to="81" dur="0.9s" begin="0.37s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
       </rect>
-      <text class="pct" x="444" y="127" text-anchor="end">42%</text>
+      <text class="pct" x="444" y="127" text-anchor="end">41%</text>
     </g>
     <g>
       <circle cx="40" cy="155" r="4.5" fill="#663399" />
       <text class="lang" x="58" y="160">CSS</text>
       <rect x="200" y="152" width="200" height="6" rx="3" fill="#16223A" />
-      <rect x="200" y="152" width="8" height="6" rx="3" fill="#663399">
-        <animate attributeName="width" from="0" to="8" dur="0.9s" begin="0.49s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      <rect x="200" y="152" width="7" height="6" rx="3" fill="#663399">
+        <animate attributeName="width" from="0" to="7" dur="0.9s" begin="0.49s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
       </rect>
       <text class="pct" x="444" y="160" text-anchor="end">4%</text>
     </g>
@@ -84,6 +84,6 @@
     </g>
 
   <rect x="40" y="240" width="400" height="1" fill="#1B2740" />
-  <text class="note" x="40" y="258">updated 2026-09-22 · by bytes</text>
+  <text class="note" x="40" y="258">updated 2026-09-23 · by bytes</text>
   <text class="note" x="440" y="258" text-anchor="end">top 5 of all owned repos</text>
 </svg>

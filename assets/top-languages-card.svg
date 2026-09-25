@@ -1,6 +1,6 @@
 <svg width="480" height="276" viewBox="0 0 480 276" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Top languages card</title>
-  <desc id="desc">Share of code by language across all owned repositories, updated 2026-09-24.</desc>
+  <desc id="desc">Share of code by language across all owned repositories, updated 2026-09-25.</desc>
   <defs>
     <linearGradient id="tl-core" x1="60" y1="18" x2="430" y2="258" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1424" />
@@ -84,6 +84,6 @@
     </g>
 
   <rect x="40" y="240" width="400" height="1" fill="#1B2740" />
-  <text class="note" x="40" y="258">updated 2026-09-24 · by bytes</text>
+  <text class="note" x="40" y="258">updated 2026-09-25 · by bytes</text>
   <text class="note" x="440" y="258" text-anchor="end">top 5 of all owned repos</text>
 </svg>

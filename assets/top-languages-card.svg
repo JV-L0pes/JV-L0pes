@@ -1,6 +1,6 @@
 <svg width="480" height="276" viewBox="0 0 480 276" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Top languages card</title>
-  <desc id="desc">Share of code by language across all owned repositories, updated 2026-09-25.</desc>
+  <desc id="desc">Share of code by language across all owned repositories, updated 2026-09-26.</desc>
   <defs>
     <linearGradient id="tl-core" x1="60" y1="18" x2="430" y2="258" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1424" />
@@ -41,8 +41,8 @@
       <circle cx="40" cy="89" r="4.5" fill="#3572A5" />
       <text class="lang" x="58" y="94">Python</text>
       <rect x="200" y="86" width="200" height="6" rx="3" fill="#16223A" />
-      <rect x="200" y="86" width="109" height="6" rx="3" fill="#3572A5">
-        <animate attributeName="width" from="0" to="109" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
+      <rect x="200" y="86" width="108" height="6" rx="3" fill="#3572A5">
+        <animate attributeName="width" from="0" to="108" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.32 0.72 0 1" keyTimes="0;1" />
       </rect>
       <text class="pct" x="444" y="94" text-anchor="end">54%</text>
     </g>
@@ -84,6 +84,6 @@
     </g>
 
   <rect x="40" y="240" width="400" height="1" fill="#1B2740" />
-  <text class="note" x="40" y="258">updated 2026-09-25 · by bytes</text>
+  <text class="note" x="40" y="258">updated 2026-09-26 · by bytes</text>
   <text class="note" x="440" y="258" text-anchor="end">top 5 of all owned repos</text>
 </svg>
